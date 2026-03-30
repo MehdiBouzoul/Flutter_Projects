@@ -29,3 +29,5 @@ This project uses the `shared_preferences` package to save the list of tasks loc
 
 ![1](screenshots/1.jpg)
 ![2](screenshots/2.jpg)
+![1](screenshots/3.jpg)
+![1](screenshots/4.jpg)
